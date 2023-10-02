@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  ResinBank
+//  SuperTinyResin
 //
-//  Created by 박지승 on 2023/09/28.
+//  Created by 박지승 on 2023/10/02.
 //
 
 import UIKit
